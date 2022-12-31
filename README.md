@@ -1,6 +1,6 @@
 ## Olá! Seja bem vindo ao meu perfil!
 
-- 🔭 Hoje atuo como Estagiário de TI no Grupo GNC;
+- 🔭 Hoje atuo como Estagiário de Desenvolvimento
 - 🌱 Estudando Linux e Angular
 
 
