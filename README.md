@@ -1,6 +1,5 @@
 ## Olá! Seja bem vindo ao meu perfil!
 
-- 🔭 Hoje atuo como Estagiário de Desenvolvimento
 - 🌱 Estudando Linux e Angular
 
 
