@@ -1,6 +1,5 @@
 ## Olá! Seja bem vindo ao meu perfil!
 
-- 🌱 Estudando Linux
 
 
 <div align="center">
