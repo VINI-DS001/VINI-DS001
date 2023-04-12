@@ -1,6 +1,6 @@
 ## Olá! Seja bem vindo ao meu perfil!
 
-- 🌱 Estudando Linux e Angular
+- 🌱 Estudando Linux
 
 
 <div align="center">
