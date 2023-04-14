@@ -8,7 +8,6 @@
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VINI-DS001&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## Programming Languages:
 <div style="display: inline_block"><br>
   <img align="center" img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="30"/>
   <img align="center" img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="30"/>
