@@ -1,4 +1,4 @@
-## Hello 👋, welcome to my profile!
+## Hello, welcome to my profile!
 
 - :writing_hand: I’m currently studying OpenCV Python
 - :computer: I'm interested in Software/Web development, Cybersecurity and AI
