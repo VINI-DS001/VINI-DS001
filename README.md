@@ -1,7 +1,7 @@
 ## Hello, welcome to my profile!
 
-- :writing_hand: I’m currently studying OpenCV Python
-- :computer: I'm interested in Software/Web development, Cybersecurity and AI
+- :writing_hand: I’m currently learning React Framework
+- :computer: I'm interested in Software/Web development and Cybersecurity.
 
 <div align="center">
   <a href="https://github.com/VINI-DS001">
