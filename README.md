@@ -1,6 +1,6 @@
 ## Hello, welcome to my profile!
 
-- :writing_hand: I’m currently learning React Framework
+- :writing_hand: I’m currently learning about Information Security
 - :computer: I'm interested in Software/Web development and Cybersecurity.
 
 <div align="center">
