@@ -4,7 +4,7 @@
 <h3 align="center">Undergraduate Student in Computer Engineering from Brazil</h3>
 
 - :writing_hand: I am currently studying and developing cybersecurity related skills
-- :computer: Improving my skills in Back-end development
+- :computer: Improving my skills in Back-end development and Computer Networking
 
 <h2> 📋 Languages</h2>
 
@@ -20,7 +20,7 @@
 
   ![Windows](https://img.shields.io/badge/Windows-%23000000?style=for-the-badge&logo=windows&logoColor=white)
   
-<h2> 📖 Studying about </h2>
+<h2> 📖 Learning </h2>
 
   ![Linux](https://img.shields.io/badge/Linux-%23000000?style=for-the-badge&logo=linux&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23000000?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -32,8 +32,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/VINI-DS001">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VINI-DS001&layout=compact&langs_count=7&theme=dracula"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VINI-DS001&&theme=tokyonight" alt="VINI-DS001" /></p>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=16B7FB&height=110&section=footer"/>
